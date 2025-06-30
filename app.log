@@ -1,0 +1,60 @@
+2025-05-16 10:53:57,704 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:53:57,712 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:53:57,738 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:53:57,738 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:54:18,628 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:54:18] "GET / HTTP/1.1" 200 -
+2025-05-16 10:54:18,942 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:54:18] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:54:18,942 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:54:18] "[33mGET /api/categories HTTP/1.1[0m" 404 -
+2025-05-16 10:54:19,490 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:54:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 10:55:08,483 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:55:08,484 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:55:08,508 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:55:08,508 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:55:25,623 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:55:25,631 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:55:25,658 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:55:25,659 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:55:40,373 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:55:40] "GET / HTTP/1.1" 200 -
+2025-05-16 10:55:40,617 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:55:40] "[33mGET /api/categories HTTP/1.1[0m" 404 -
+2025-05-16 10:55:40,622 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:55:40] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:55:40,944 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:55:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 10:56:45,201 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:56:45,209 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:56:45,233 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:56:45,236 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:56:59,610 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:56:59] "GET / HTTP/1.1" 200 -
+2025-05-16 10:56:59,738 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:56:59] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:56:59,740 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 10:56:59] "[33mGET /api/categories HTTP/1.1[0m" 404 -
+2025-05-16 11:08:53,201 - __main__ - INFO - Database initialized successfully
+2025-05-16 11:08:53,242 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 11:08:53,298 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 11:08:53,302 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 11:09:13,423 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 11:09:13] "GET / HTTP/1.1" 200 -
+2025-05-16 11:09:13,509 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 11:09:13] "[33mGET /images/hero-dog.png HTTP/1.1[0m" 404 -
+2025-05-16 11:09:13,538 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 11:09:13] "[33mGET /{product.image HTTP/1.1[0m" 404 -
+2025-05-16 11:09:13,558 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 11:09:13] "[33mGET /images/team-with-pets.png HTTP/1.1[0m" 404 -
+2025-05-16 11:09:13,599 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 11:09:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 11:18:37,023 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:18:37] "GET / HTTP/1.1" 200 -
+2025-05-16 11:18:37,055 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:18:37] "[33mGET /images/hero-dog.png HTTP/1.1[0m" 404 -
+2025-05-16 11:18:37,068 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:18:37] "[33mGET /{product.image HTTP/1.1[0m" 404 -
+2025-05-16 11:18:37,073 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:18:37] "[33mGET /images/team-with-pets.png HTTP/1.1[0m" 404 -
+2025-05-16 11:18:37,113 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:18:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 11:19:19,719 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:19:19] "GET / HTTP/1.1" 200 -
+2025-05-16 11:19:19,749 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:19:19] "[33mGET /images/hero-dog.png HTTP/1.1[0m" 404 -
+2025-05-16 11:19:19,760 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:19:19] "[33mGET /{product.image HTTP/1.1[0m" 404 -
+2025-05-16 11:19:19,767 - werkzeug - INFO - 10.1.12.190 - - [16/May/2025 11:19:19] "[33mGET /images/team-with-pets.png HTTP/1.1[0m" 404 -
